@@ -1,0 +1,7 @@
+joblib
+pandas
+numpy
+streamlit
+matplotlib
+re
+rapidfuzz
